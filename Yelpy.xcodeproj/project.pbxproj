@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3076C16224BA047F00D7842C /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CE517AC424B6DD4A00268657 /* MapKit.framework */; };
 		70B21A6D2487796D00E1BAB5 /* 4762-food-carousel.json in Resources */ = {isa = PBXBuildFile; fileRef = 70B21A6C2487796D00E1BAB5 /* 4762-food-carousel.json */; };
 		70F6369B24898E8000038EC3 /* FileSubviewsSkeletonables.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70F6369A24898E8000038EC3 /* FileSubviewsSkeletonables.swift */; };
 		BB30BD2B247E46FE00C383BB /* RestaurantDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB30BD2A247E46FE00C383BB /* RestaurantDetailViewController.swift */; };
@@ -24,7 +25,6 @@
 		BBEBF110247738A50044AFE0 /* RestaurantsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BBEBF10F247738A50044AFE0 /* RestaurantsViewController.swift */; };
 		BBEBF115247738A50044AFE0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BBEBF114247738A50044AFE0 /* Assets.xcassets */; };
 		BBEBF118247738A50044AFE0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BBEBF116247738A50044AFE0 /* LaunchScreen.storyboard */; };
-		CE517AC524B6DD4A00268657 /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CE517AC424B6DD4A00268657 /* MapKit.framework */; };
 		CE517AC724B6F65200268657 /* PostImageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE517AC624B6F65200268657 /* PostImageViewController.swift */; };
 		DEB0D3CBF2C6E48DC3500274 /* Pods_Yelpy.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4F45387EF0BCD4FD0EAD369F /* Pods_Yelpy.framework */; };
 /* End PBXBuildFile section */
@@ -61,7 +61,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				CE517AC524B6DD4A00268657 /* MapKit.framework in Frameworks */,
+				3076C16224BA047F00D7842C /* MapKit.framework in Frameworks */,
 				DEB0D3CBF2C6E48DC3500274 /* Pods_Yelpy.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
