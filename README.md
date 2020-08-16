@@ -14,8 +14,8 @@ Users can view and scroll through a list of Yelp restaurants.
 - [X] Users can log out
 - [X] Users can view a chat message screen
 - [X] Users can post on the chat message screen
-- [] Users can take a photo
-- [] Users can tag the photo with the location
+- [X] Users can take a photo
+- [X] Users can tag the photo with the location
 
 #### BONUS
 - [X] User can see star ratings of each Yelp restaurant.
